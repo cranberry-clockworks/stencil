@@ -27,3 +27,14 @@ For **lazy.nvim**:
 }
 ```
 
+# Screenshots
+## Moonfly
+
+<img width="1624" height="1061" alt="Screenshot 2026-11-22 at 19 24 00" src="https://github.com/user-attachments/assets/0a606e40-b13b-48d7-aae7-320785fefcd2" />
+<img width="1624" height="1061" alt="Screenshot 2026-11-22 at 19 25 58" src="https://github.com/user-attachments/assets/00cca483-d52f-4757-9a69-4d50e1e46d18" />
+<img width="1624" height="1061" alt="Screenshot 2026-11-22 at 19 25 06" src="https://github.com/user-attachments/assets/e405be64-bcbd-47fd-b045-11ba68f1eb4d" />
+
+
+## Alabaster
+
+<img width="1624" height="1061" alt="Screenshot 2026-11-22 at 19 28 50" src="https://github.com/user-attachments/assets/3afd9422-aebc-4b06-bd67-208c9e13193e" />
